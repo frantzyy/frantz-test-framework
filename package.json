@@ -1,0 +1,30 @@
+{
+  "name": "frantz-test-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frantzyy/frantz-test-framework.git"
+  },
+  "author": "Chris Frantz <christopher.j.frantz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frantzyy/frantz-test-framework/issues"
+  },
+  "homepage": "https://github.com/frantzyy/frantz-test-framework#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "jasmine-core": "2.4.1",
+    "karma": "1.1.2",
+    "karma-jasmine": "1.0.2"
+  },
+  "dependencies": {
+    "angular": "1.4.11",
+    "angular-ui-grid": "3.2.6",
+    "bootstrap": "3.3.7"
+  }
+}
